@@ -97,7 +97,7 @@
 // numbers = [1, 2, 3, 4, 5];
 // strings = ["A", "B", "C"];
 // booleans = [true, false, false, true, true];
-///////////////////////////////////////////////////////////////////////////////
+// /////////////////////////////////////////////////////////////////////////////
 
 // function add(...values: (number | string | boolean)[]) {
 //     let result = [];
@@ -111,7 +111,7 @@
 // console.log(add(1, 2, 3, 4, 5));
 // console.log(add("A", "B", "C"));
 // console.log(add(true, false, false, true, true));
-///////////////////////////////////////////////////////////////////////////////
+// /////////////////////////////////////////////////////////////////////////////
 
 // function add1(...values: (string | number | boolean)[]) {
 //     return values.map((value) => `the value is ${value} and type is ${typeof value}`).join("\n");
